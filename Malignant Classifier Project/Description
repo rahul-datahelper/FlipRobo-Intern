@@ -1,0 +1,26 @@
+MALIGNANT COMMENTS CLASSIFICATION
+1. Problem Definition
+In a statement,
+The problem we will be exploring is binary classification (a sample can only be one of two things).
+
+Our goal is to build a prototype of online hate and abuse comment classifier which can used to classify hate and offensive comments so that it can be controlled and restricted from spreading hatred and cyberbullying.
+
+2. Data
+All of the dataset values were provided by a client.
+
+3. Evaluation
+Evaluating a models predictions using problem-specific evaluation metrics
+
+4. Features
+
+The label can be either 0 or 1, where 0 denotes a NO while 1 denotes a YES. There are various comments which have multiple labels. The first attribute is a unique ID associated with each comment.
+The data set includes:
+
+Malignant: It is the Label column, which includes values 0 and 1, denoting if the comment is malignant or not.
+Highly Malignant: It denotes comments that are highly malignant and hurtful.
+Rude: It denotes comments that are very rude and offensive.
+Threat: It contains indication of the comments that are giving any threat to someone.
+Abuse: It is for comments that are abusive in nature.
+Loathe: It describes the comments which are hateful and loathing in nature.
+ID: It includes unique Ids associated with each comment text given.
+Comment text: This column contains the comments extracted from various social media platforms.
