@@ -6,7 +6,7 @@ The problem we will be exploring is binary classification (a sample can only be 
 Our goal is to build a prototype of online hate and abuse comment classifier which can used to classify hate and offensive comments so that it can be controlled and restricted from spreading hatred and cyberbullying.
 
 2. Data
-All of the dataset values were provided by a client.
+All of the dataset values were provided by Company/Client.
 
 3. Evaluation
 Evaluating a models predictions using problem-specific evaluation metrics
